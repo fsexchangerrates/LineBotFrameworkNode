@@ -1,0 +1,885 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "mega",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://fsexchanger.files.wordpress.com/2020/04/tomswallpapers.com-110033.jpg",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "2:3",
+            "gravity": "top"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "???????????????",
+                    "size": "xl",
+                    "color": "#ffffff",
+                    "weight": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "???????????????????-???????????????",
+                    "color": "#ebebeb",
+                    "size": "sm",
+                    "flex": 0
+                  }
+                ],
+                "spacing": "lg"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "icon",
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip14.png"
+                      },
+                      {
+                        "type": "text",
+                        "text": "?????????????????",
+                        "color": "#ffffff",
+                        "flex": 0,
+                        "offsetTop": "-2px"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "spacing": "sm"
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "borderWidth": "1px",
+                "cornerRadius": "4px",
+                "spacing": "sm",
+                "borderColor": "#ffffff",
+                "margin": "xxl",
+                "height": "40px",
+                "action": {
+                  "type": "postback",
+                  "label": "curreny",
+                  "data": "hello"
+                }
+              }
+            ],
+            "position": "absolute",
+            "offsetBottom": "0px",
+            "offsetStart": "0px",
+            "offsetEnd": "0px",
+            "backgroundColor": "#03303Acc",
+            "paddingAll": "20px",
+            "paddingTop": "18px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "FS-CURRENCY",
+                "color": "#ffffff",
+                "align": "center",
+                "size": "xs",
+                "offsetTop": "3px",
+                "weight": "bold"
+              }
+            ],
+            "position": "absolute",
+            "cornerRadius": "20px",
+            "offsetTop": "18px",
+            "backgroundColor": "#03303A",
+            "offsetStart": "18px",
+            "paddingAll": "4px"
+          }
+        ],
+        "paddingAll": "0px"
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://fsexchanger.files.wordpress.com/2020/04/tomswallpapers.com-88183.jpg",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "2:3",
+            "gravity": "top"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "???????????",
+                    "size": "xl",
+                    "color": "#ffffff",
+                    "weight": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "??????????????????????????? \"?????????\"",
+                    "color": "#ebebeb",
+                    "size": "sm",
+                    "flex": 0
+                  }
+                ],
+                "spacing": "lg"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "icon",
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip14.png"
+                      },
+                      {
+                        "type": "text",
+                        "text": "??????????? ???? !",
+                        "color": "#ffffff",
+                        "flex": 0,
+                        "offsetTop": "-2px"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "spacing": "sm"
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "borderWidth": "1px",
+                "cornerRadius": "4px",
+                "spacing": "sm",
+                "borderColor": "#ffffff",
+                "margin": "xxl",
+                "height": "40px",
+                "action": {
+                  "type": "postback",
+                  "label": "curreny",
+                  "data": "hello"
+                }
+              }
+            ],
+            "position": "absolute",
+            "offsetBottom": "0px",
+            "offsetStart": "0px",
+            "offsetEnd": "0px",
+            "backgroundColor": "#006080cc",
+            "paddingAll": "20px",
+            "paddingTop": "18px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "FS-REGISTER",
+                "color": "#ffffff",
+                "align": "center",
+                "size": "xs",
+                "offsetTop": "3px",
+                "weight": "bold"
+              }
+            ],
+            "position": "absolute",
+            "cornerRadius": "20px",
+            "offsetTop": "18px",
+            "backgroundColor": "#006699",
+            "offsetStart": "18px",
+            "paddingAll": "4px"
+          }
+        ],
+        "paddingAll": "0px"
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://fsexchanger.files.wordpress.com/2020/04/tomswallpapers.com-109478.jpg",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "2:3",
+            "gravity": "top"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "??????????? ??? ?????????",
+                    "size": "xl",
+                    "color": "#ffffff",
+                    "weight": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "?????????? ??????? ??? ?????????????????????",
+                    "color": "#ebebeb",
+                    "size": "sm",
+                    "flex": 0,
+                    "wrap": true,
+                    "align": "start"
+                  }
+                ],
+                "spacing": "lg"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "icon",
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip14.png"
+                      },
+                      {
+                        "type": "text",
+                        "text": "????????????? / ?????????",
+                        "color": "#ffffff",
+                        "flex": 0,
+                        "offsetTop": "-2px",
+                        "align": "center",
+                        "gravity": "center"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "spacing": "sm",
+                    "action": {
+                      "type": "uri",
+                      "uri": "http://linecorp.com/",
+                      "altUri": {
+                        "desktop": "http://linecorp.com/"
+                      },
+                      "label": "greeting, guide"
+                    }
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "borderWidth": "1px",
+                "cornerRadius": "4px",
+                "spacing": "sm",
+                "borderColor": "#ffffff",
+                "margin": "xxl",
+                "height": "40px",
+                "backgroundColor": "#b3590033"
+              }
+            ],
+            "position": "absolute",
+            "offsetStart": "0px",
+            "offsetEnd": "0px",
+            "backgroundColor": "#15070ecc",
+            "paddingAll": "20px",
+            "paddingTop": "18px",
+            "offsetBottom": "0px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "FS-GUIDE",
+                "color": "#ffffff",
+                "align": "center",
+                "size": "xs",
+                "offsetTop": "3px",
+                "margin": "xxl",
+                "weight": "bold",
+                "gravity": "center"
+              }
+            ],
+            "position": "absolute",
+            "cornerRadius": "20px",
+            "offsetTop": "18px",
+            "backgroundColor": "#9C8E7Ecc",
+            "offsetStart": "18px",
+            "paddingAll": "6px",
+            "paddingStart": "10px",
+            "paddingEnd": "10px"
+          }
+        ],
+        "paddingAll": "0px"
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://fsexchanger.files.wordpress.com/2020/04/tomswallpapers.com-101066.jpg",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "2:3",
+            "gravity": "top"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "??????????? ",
+                    "size": "xl",
+                    "color": "#ffffff",
+                    "weight": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "??????????????????????????????????????????",
+                    "color": "#ebebeb",
+                    "size": "sm",
+                    "flex": 0
+                  }
+                ],
+                "spacing": "lg"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "icon",
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip14.png"
+                      },
+                      {
+                        "type": "text",
+                        "text": "??????????",
+                        "color": "#ffffff",
+                        "flex": 0,
+                        "offsetTop": "-2px"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "spacing": "sm"
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "borderWidth": "1px",
+                "cornerRadius": "4px",
+                "spacing": "sm",
+                "borderColor": "#ffffff",
+                "margin": "xxl",
+                "height": "40px",
+                "action": {
+                  "type": "postback",
+                  "label": "curreny",
+                  "data": "hello"
+                }
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "icon",
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip14.png"
+                      },
+                      {
+                        "type": "text",
+                        "text": "?????????",
+                        "color": "#333333",
+                        "flex": 0,
+                        "offsetTop": "-2px",
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "spacing": "sm"
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "borderWidth": "1px",
+                "cornerRadius": "4px",
+                "spacing": "sm",
+                "borderColor": "#e6f7ff",
+                "margin": "xxl",
+                "height": "40px",
+                "action": {
+                  "type": "postback",
+                  "label": "curreny",
+                  "data": "hello"
+                },
+                "backgroundColor": "#f2f2f2ff"
+              }
+            ],
+            "position": "absolute",
+            "offsetBottom": "0px",
+            "offsetStart": "0px",
+            "offsetEnd": "0px",
+            "backgroundColor": "#03303Acc",
+            "paddingAll": "20px",
+            "paddingTop": "18px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "FS-RATES",
+                "color": "#ffffff",
+                "align": "center",
+                "size": "xs",
+                "offsetTop": "3px",
+                "weight": "bold"
+              }
+            ],
+            "position": "absolute",
+            "cornerRadius": "20px",
+            "offsetTop": "18px",
+            "backgroundColor": "#03303A",
+            "offsetStart": "18px"
+          }
+        ],
+        "paddingAll": "0px"
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://fsexchanger.files.wordpress.com/2020/04/r201.jpg",
+            "aspectRatio": "2:3",
+            "margin": "none",
+            "offsetTop": "0px",
+            "aspectMode": "cover",
+            "align": "end",
+            "gravity": "top",
+            "position": "absolute",
+            "size": "full"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "???????????",
+                    "size": "xl",
+                    "color": "#00111a",
+                    "weight": "bold",
+                    "align": "end"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "?????????????????",
+                    "color": "#00111a",
+                    "align": "end",
+                    "gravity": "center",
+                    "size": "sm",
+                    "offsetBottom": "0px",
+                    "offsetEnd": "0px",
+                    "margin": "md"
+                  }
+                ],
+                "spacing": "xl",
+                "backgroundColor": "#e9e9e9aa",
+                "cornerRadius": "20px",
+                "paddingAll": "3px",
+                "margin": "md",
+                "offsetEnd": "18px",
+                "position": "absolute",
+                "flex": 0,
+                "offsetTop": "50px"
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "????????????? - ???",
+                    "color": "#00111a",
+                    "align": "end",
+                    "gravity": "center",
+                    "size": "sm",
+                    "offsetBottom": "0px",
+                    "offsetEnd": "0px",
+                    "margin": "md"
+                  }
+                ],
+                "spacing": "xl",
+                "backgroundColor": "#e9e9e9aa",
+                "cornerRadius": "20px",
+                "paddingAll": "3px",
+                "margin": "md",
+                "offsetEnd": "18px",
+                "position": "absolute",
+                "flex": 0,
+                "offsetTop": "70px"
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "???????? ???????????????? ",
+                    "color": "#00111a",
+                    "align": "end",
+                    "gravity": "center",
+                    "size": "sm",
+                    "offsetBottom": "0px",
+                    "offsetEnd": "0px",
+                    "margin": "md"
+                  }
+                ],
+                "spacing": "xl",
+                "backgroundColor": "#e9e9e9aa",
+                "cornerRadius": "20px",
+                "paddingAll": "3px",
+                "margin": "md",
+                "offsetEnd": "18px",
+                "position": "absolute",
+                "flex": 0,
+                "offsetTop": "90px"
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "??????????????",
+                    "color": "#00111a",
+                    "align": "end",
+                    "gravity": "center",
+                    "size": "sm",
+                    "offsetBottom": "0px",
+                    "offsetEnd": "0px",
+                    "margin": "md"
+                  }
+                ],
+                "spacing": "xl",
+                "backgroundColor": "#e9e9e9aa",
+                "cornerRadius": "20px",
+                "paddingAll": "3px",
+                "margin": "md",
+                "offsetEnd": "18px",
+                "position": "absolute",
+                "flex": 0,
+                "offsetTop": "110px"
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "????????????????????",
+                    "color": "#00111a",
+                    "align": "end",
+                    "gravity": "center",
+                    "size": "sm",
+                    "offsetBottom": "0px",
+                    "offsetEnd": "0px",
+                    "margin": "md"
+                  }
+                ],
+                "spacing": "xl",
+                "backgroundColor": "#e9e9e9aa",
+                "cornerRadius": "20px",
+                "paddingAll": "3px",
+                "margin": "md",
+                "offsetEnd": "18px",
+                "position": "absolute",
+                "flex": 0,
+                "offsetTop": "130px"
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "???????????",
+                    "color": "#00111a",
+                    "align": "end",
+                    "gravity": "center",
+                    "size": "sm",
+                    "offsetBottom": "0px",
+                    "offsetEnd": "0px",
+                    "margin": "md"
+                  }
+                ],
+                "spacing": "xl",
+                "backgroundColor": "#e9e9e9aa",
+                "cornerRadius": "20px",
+                "paddingAll": "3px",
+                "margin": "md",
+                "offsetEnd": "18px",
+                "position": "absolute",
+                "flex": 0,
+                "offsetTop": "150px"
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "??????????????????????",
+                    "color": "#00111a",
+                    "align": "end",
+                    "gravity": "center",
+                    "size": "sm",
+                    "offsetBottom": "0px",
+                    "offsetEnd": "0px",
+                    "margin": "md"
+                  }
+                ],
+                "spacing": "xl",
+                "backgroundColor": "#e9e9e9aa",
+                "cornerRadius": "20px",
+                "paddingAll": "3px",
+                "margin": "md",
+                "offsetEnd": "18px",
+                "position": "absolute",
+                "flex": 0,
+                "offsetTop": "170px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "icon",
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip14.png"
+                      },
+                      {
+                        "type": "text",
+                        "text": "??????????? / ???????????",
+                        "color": "#ffffff",
+                        "flex": 0,
+                        "offsetTop": "-2px"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "spacing": "sm"
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "borderWidth": "1px",
+                "cornerRadius": "4px",
+                "spacing": "sm",
+                "borderColor": "#00111a",
+                "margin": "xxl",
+                "height": "40px",
+                "action": {
+                  "type": "postback",
+                  "label": "curreny",
+                  "data": "hello"
+                },
+                "offsetStart": "18px",
+                "offsetEnd": "18px",
+                "offsetBottom": "18px",
+                "position": "absolute",
+                "backgroundColor": "#00111acc"
+              }
+            ],
+            "position": "absolute",
+            "offsetStart": "0px",
+            "offsetEnd": "0px",
+            "backgroundColor": "#00111a11",
+            "paddingAll": "20px",
+            "paddingTop": "18px",
+            "offsetTop": "0px",
+            "height": "100%"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "FS-MEMBER AREA",
+                "color": "#ffffff",
+                "align": "center",
+                "size": "xs",
+                "offsetTop": "3px",
+                "weight": "bold"
+              }
+            ],
+            "position": "absolute",
+            "cornerRadius": "20px",
+            "backgroundColor": "#00111a",
+            "paddingAll": "4px",
+            "offsetTop": "18px",
+            "offsetStart": "18px"
+          }
+        ],
+        "paddingAll": "0px",
+        "spacing": "none",
+        "margin": "none",
+        "offsetTop": "0px",
+        "width": "100%",
+        "height": "100%",
+        "offsetBottom": "0px"
+      }
+    }
+  ]
+}

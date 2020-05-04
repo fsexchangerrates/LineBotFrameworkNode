@@ -1,0 +1,1397 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "giga",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://fsexchanger.files.wordpress.com/2020/04/r002-1.jpg",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "2:3",
+            "gravity": "top"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "PayPal",
+                    "size": "xl",
+                    "color": "#ffffff",
+                    "weight": "bold",
+                    "align": "center",
+                    "style": "normal"
+                  }
+                ],
+                "offsetTop": "15px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "???????",
+                    "color": "#ffffff",
+                    "align": "center",
+                    "size": "md",
+                    "offsetTop": "3px"
+                  }
+                ],
+                "position": "absolute",
+                "cornerRadius": "2px",
+                "offsetTop": "68px",
+                "offsetStart": "41%",
+                "paddingEnd": "6px",
+                "paddingBottom": "8px",
+                "paddingTop": "4px",
+                "paddingAll": "6px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "icon",
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip14.png"
+                      },
+                      {
+                        "type": "text",
+                        "text": "??????????????",
+                        "color": "#ffffff",
+                        "flex": 0,
+                        "offsetTop": "-2px"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "spacing": "sm"
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "borderWidth": "1px",
+                "cornerRadius": "4px",
+                "spacing": "sm",
+                "borderColor": "#ffffff",
+                "margin": "xxl",
+                "height": "50px",
+                "offsetBottom": "-430px",
+                "backgroundColor": "#03303Aaa"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "????????????",
+                        "color": "#ffffff",
+                        "align": "center",
+                        "size": "lg",
+                        "offsetTop": "3px",
+                        "weight": "bold"
+                      }
+                    ],
+                    "cornerRadius": "4px",
+                    "offsetTop": "0px",
+                    "backgroundColor": "#804000aa",
+                    "paddingEnd": "6px",
+                    "paddingBottom": "10px",
+                    "paddingAll": "8px",
+                    "width": "60%",
+                    "offsetStart": "0px",
+                    "height": "45px",
+                    "borderWidth": "1px",
+                    "borderColor": "#804000"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "??????",
+                        "color": "#03303A",
+                        "align": "center",
+                        "size": "lg",
+                        "offsetTop": "3px",
+                        "weight": "bold"
+                      }
+                    ],
+                    "cornerRadius": "4px",
+                    "offsetTop": "0px",
+                    "backgroundColor": "#ffffff",
+                    "paddingAll": "8px",
+                    "width": "40%",
+                    "offsetEnd": "0px",
+                    "paddingBottom": "10px",
+                    "height": "45px",
+                    "borderColor": "#03303A",
+                    "borderWidth": "1px"
+                  }
+                ],
+                "offsetTop": "-5px",
+                "margin": "lg"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "$100 - $500",
+                        "color": "#ffffff",
+                        "align": "center",
+                        "size": "lg",
+                        "offsetTop": "3px",
+                        "weight": "regular"
+                      }
+                    ],
+                    "cornerRadius": "4px",
+                    "offsetTop": "0px",
+                    "backgroundColor": "#4d0000aa",
+                    "paddingBottom": "10px",
+                    "paddingAll": "8px",
+                    "width": "60%",
+                    "offsetStart": "0px",
+                    "height": "45px",
+                    "borderWidth": "1px",
+                    "borderColor": "#03303A"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "? 34.00",
+                        "color": "#03303A",
+                        "align": "center",
+                        "size": "lg",
+                        "offsetTop": "3px",
+                        "weight": "regular"
+                      }
+                    ],
+                    "cornerRadius": "4px",
+                    "offsetTop": "0px",
+                    "backgroundColor": "#ffffff",
+                    "paddingAll": "8px",
+                    "width": "40%",
+                    "offsetEnd": "0px",
+                    "paddingBottom": "10px",
+                    "height": "45px",
+                    "borderWidth": "1px",
+                    "borderColor": "#03303A"
+                  }
+                ],
+                "offsetTop": "-5px",
+                "margin": "lg"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "$501 - $1,000",
+                        "color": "#ffffff",
+                        "align": "center",
+                        "size": "lg",
+                        "offsetTop": "3px",
+                        "weight": "regular"
+                      }
+                    ],
+                    "cornerRadius": "4px",
+                    "backgroundColor": "#03303Acc",
+                    "width": "60%",
+                    "offsetStart": "0px",
+                    "offsetTop": "0px",
+                    "paddingBottom": "10px",
+                    "paddingAll": "8px",
+                    "height": "45px",
+                    "borderWidth": "1px",
+                    "borderColor": "#03303A"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "? 33.75",
+                        "color": "#03303A",
+                        "align": "center",
+                        "size": "lg",
+                        "offsetTop": "3px",
+                        "weight": "regular"
+                      }
+                    ],
+                    "cornerRadius": "4px",
+                    "offsetTop": "0px",
+                    "backgroundColor": "#ffffff",
+                    "paddingAll": "8px",
+                    "width": "40%",
+                    "offsetEnd": "0px",
+                    "paddingBottom": "10px",
+                    "height": "45px",
+                    "borderWidth": "1px",
+                    "borderColor": "#03303A"
+                  }
+                ],
+                "offsetTop": "-5px",
+                "margin": "lg"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "$1,001 - $1,500",
+                        "color": "#ffffff",
+                        "align": "center",
+                        "size": "lg",
+                        "offsetTop": "3px",
+                        "weight": "regular"
+                      }
+                    ],
+                    "cornerRadius": "4px",
+                    "offsetTop": "0px",
+                    "backgroundColor": "#03303Acc",
+                    "paddingBottom": "10px",
+                    "paddingAll": "8px",
+                    "width": "60%",
+                    "offsetStart": "0px",
+                    "height": "45px",
+                    "borderWidth": "1px",
+                    "borderColor": "#03303A"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "? 33.50",
+                        "color": "#03303A",
+                        "align": "center",
+                        "size": "lg",
+                        "offsetTop": "3px",
+                        "weight": "regular"
+                      }
+                    ],
+                    "cornerRadius": "4px",
+                    "offsetTop": "0px",
+                    "backgroundColor": "#ffffff",
+                    "paddingAll": "8px",
+                    "width": "40%",
+                    "offsetEnd": "0px",
+                    "paddingBottom": "10px",
+                    "height": "45px",
+                    "borderWidth": "1px",
+                    "borderColor": "#03303A"
+                  }
+                ],
+                "offsetTop": "-5px",
+                "margin": "lg"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "$1,501 - $2,000",
+                        "color": "#ffffff",
+                        "align": "center",
+                        "size": "lg",
+                        "offsetTop": "3px",
+                        "weight": "regular"
+                      }
+                    ],
+                    "cornerRadius": "4px",
+                    "offsetTop": "0px",
+                    "backgroundColor": "#03303Acc",
+                    "paddingBottom": "10px",
+                    "paddingAll": "8px",
+                    "width": "60%",
+                    "offsetStart": "0px",
+                    "height": "45px",
+                    "borderWidth": "1px",
+                    "borderColor": "#03303A"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "? 33.25",
+                        "color": "#03303A",
+                        "align": "center",
+                        "size": "lg",
+                        "offsetTop": "3px",
+                        "weight": "regular"
+                      }
+                    ],
+                    "cornerRadius": "4px",
+                    "offsetTop": "0px",
+                    "backgroundColor": "#ffffff",
+                    "paddingAll": "8px",
+                    "width": "40%",
+                    "offsetEnd": "0px",
+                    "paddingBottom": "10px",
+                    "height": "45px",
+                    "borderWidth": "1px",
+                    "borderColor": "#03303A"
+                  }
+                ],
+                "offsetTop": "-5px",
+                "margin": "lg"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "$2,001 - $10,000",
+                        "color": "#ffffff",
+                        "align": "center",
+                        "size": "lg",
+                        "offsetTop": "3px",
+                        "weight": "regular"
+                      }
+                    ],
+                    "cornerRadius": "4px",
+                    "offsetTop": "0px",
+                    "backgroundColor": "#03303Acc",
+                    "paddingBottom": "10px",
+                    "paddingAll": "8px",
+                    "width": "60%",
+                    "offsetStart": "0px",
+                    "height": "45px",
+                    "borderWidth": "1px",
+                    "borderColor": "#03303A"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "? 33.00",
+                        "color": "#03303A",
+                        "align": "center",
+                        "size": "lg",
+                        "offsetTop": "3px",
+                        "weight": "regular"
+                      }
+                    ],
+                    "cornerRadius": "4px",
+                    "offsetTop": "0px",
+                    "backgroundColor": "#ffffff",
+                    "paddingAll": "8px",
+                    "width": "40%",
+                    "offsetEnd": "0px",
+                    "paddingBottom": "10px",
+                    "height": "45px",
+                    "borderWidth": "1px",
+                    "borderColor": "#03303A"
+                  }
+                ],
+                "offsetTop": "-5px",
+                "margin": "lg"
+              }
+            ],
+            "position": "absolute",
+            "offsetBottom": "0px",
+            "offsetStart": "0px",
+            "offsetEnd": "0px",
+            "backgroundColor": "#03303A11",
+            "paddingAll": "20px",
+            "paddingTop": "18px",
+            "offsetTop": "0px"
+          }
+        ],
+        "paddingAll": "0px"
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "giga",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://fsexchanger.files.wordpress.com/2020/04/r26-1.jpg",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "2:3",
+            "gravity": "top"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "PayPal",
+                    "size": "xl",
+                    "color": "#ffffff",
+                    "weight": "bold",
+                    "align": "center",
+                    "style": "normal"
+                  }
+                ],
+                "offsetTop": "15px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "??????????????",
+                    "color": "#ffffff",
+                    "align": "center",
+                    "size": "md",
+                    "offsetTop": "3px"
+                  }
+                ],
+                "position": "absolute",
+                "cornerRadius": "2px",
+                "offsetTop": "68px",
+                "offsetStart": "38%",
+                "paddingEnd": "6px",
+                "paddingBottom": "8px",
+                "paddingTop": "4px",
+                "paddingAll": "6px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "icon",
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip14.png"
+                      },
+                      {
+                        "type": "text",
+                        "text": "?????????????",
+                        "color": "#ffffff",
+                        "flex": 0,
+                        "offsetTop": "-2px"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "spacing": "sm"
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "borderWidth": "1px",
+                "cornerRadius": "4px",
+                "spacing": "sm",
+                "borderColor": "#ffffff",
+                "margin": "xxl",
+                "height": "50px",
+                "offsetBottom": "-430px",
+                "backgroundColor": "#03303Acc"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "????????????",
+                        "color": "#ffffff",
+                        "align": "center",
+                        "size": "lg",
+                        "offsetTop": "3px",
+                        "weight": "bold"
+                      }
+                    ],
+                    "cornerRadius": "4px",
+                    "offsetTop": "0px",
+                    "backgroundColor": "#03303Acc",
+                    "paddingEnd": "6px",
+                    "paddingBottom": "10px",
+                    "paddingAll": "8px",
+                    "width": "60%",
+                    "offsetStart": "0px",
+                    "height": "45px",
+                    "borderWidth": "1px",
+                    "borderColor": "#03303A"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "??????",
+                        "color": "#03303A",
+                        "align": "center",
+                        "size": "lg",
+                        "offsetTop": "3px",
+                        "weight": "bold"
+                      }
+                    ],
+                    "cornerRadius": "4px",
+                    "offsetTop": "0px",
+                    "backgroundColor": "#ffffff",
+                    "paddingAll": "8px",
+                    "width": "40%",
+                    "offsetEnd": "0px",
+                    "paddingBottom": "10px",
+                    "height": "45px",
+                    "borderColor": "#03303A",
+                    "borderWidth": "1px"
+                  }
+                ],
+                "offsetTop": "-5px",
+                "margin": "lg"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "$100 - $500",
+                        "color": "#ffffff",
+                        "align": "center",
+                        "size": "lg",
+                        "offsetTop": "3px",
+                        "weight": "regular"
+                      }
+                    ],
+                    "cornerRadius": "4px",
+                    "offsetTop": "0px",
+                    "backgroundColor": "#03303Acc",
+                    "paddingBottom": "10px",
+                    "paddingAll": "8px",
+                    "width": "60%",
+                    "offsetStart": "0px",
+                    "height": "45px",
+                    "borderWidth": "1px",
+                    "borderColor": "#03303A"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "? 25.00",
+                        "color": "#03303A",
+                        "align": "center",
+                        "size": "lg",
+                        "offsetTop": "3px",
+                        "weight": "regular"
+                      }
+                    ],
+                    "cornerRadius": "4px",
+                    "offsetTop": "0px",
+                    "backgroundColor": "#ffffff",
+                    "paddingAll": "8px",
+                    "width": "40%",
+                    "offsetEnd": "0px",
+                    "paddingBottom": "10px",
+                    "height": "45px",
+                    "borderWidth": "1px",
+                    "borderColor": "#03303A"
+                  }
+                ],
+                "offsetTop": "-5px",
+                "margin": "lg"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "$501 - $1,000",
+                        "color": "#ffffff",
+                        "align": "center",
+                        "size": "lg",
+                        "offsetTop": "3px",
+                        "weight": "regular"
+                      }
+                    ],
+                    "cornerRadius": "4px",
+                    "backgroundColor": "#03303Acc",
+                    "width": "60%",
+                    "offsetStart": "0px",
+                    "offsetTop": "0px",
+                    "paddingBottom": "10px",
+                    "paddingAll": "8px",
+                    "height": "45px",
+                    "borderWidth": "1px",
+                    "borderColor": "#03303A"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "? 25.50",
+                        "color": "#03303A",
+                        "align": "center",
+                        "size": "lg",
+                        "offsetTop": "3px",
+                        "weight": "regular"
+                      }
+                    ],
+                    "cornerRadius": "4px",
+                    "offsetTop": "0px",
+                    "backgroundColor": "#ffffff",
+                    "paddingAll": "8px",
+                    "width": "40%",
+                    "offsetEnd": "0px",
+                    "paddingBottom": "10px",
+                    "height": "45px",
+                    "borderWidth": "1px",
+                    "borderColor": "#03303A"
+                  }
+                ],
+                "offsetTop": "-5px",
+                "margin": "lg"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "$1,001 - $1,500",
+                        "color": "#ffffff",
+                        "align": "center",
+                        "size": "lg",
+                        "offsetTop": "3px",
+                        "weight": "regular"
+                      }
+                    ],
+                    "cornerRadius": "4px",
+                    "offsetTop": "0px",
+                    "backgroundColor": "#03303Acc",
+                    "paddingBottom": "10px",
+                    "paddingAll": "8px",
+                    "width": "60%",
+                    "offsetStart": "0px",
+                    "height": "45px",
+                    "borderWidth": "1px",
+                    "borderColor": "#03303A"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "? 25.75",
+                        "color": "#03303A",
+                        "align": "center",
+                        "size": "lg",
+                        "offsetTop": "3px",
+                        "weight": "regular"
+                      }
+                    ],
+                    "cornerRadius": "4px",
+                    "offsetTop": "0px",
+                    "backgroundColor": "#ffffff",
+                    "paddingAll": "8px",
+                    "width": "40%",
+                    "offsetEnd": "0px",
+                    "paddingBottom": "10px",
+                    "height": "45px",
+                    "borderWidth": "1px",
+                    "borderColor": "#03303A"
+                  }
+                ],
+                "offsetTop": "-5px",
+                "margin": "lg"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "$1,501 - $2,000",
+                        "color": "#ffffff",
+                        "align": "center",
+                        "size": "lg",
+                        "offsetTop": "3px",
+                        "weight": "regular"
+                      }
+                    ],
+                    "cornerRadius": "4px",
+                    "offsetTop": "0px",
+                    "backgroundColor": "#03303Acc",
+                    "paddingBottom": "10px",
+                    "paddingAll": "8px",
+                    "width": "60%",
+                    "offsetStart": "0px",
+                    "height": "45px",
+                    "borderWidth": "1px",
+                    "borderColor": "#03303A"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "? 26.00",
+                        "color": "#03303A",
+                        "align": "center",
+                        "size": "lg",
+                        "offsetTop": "3px",
+                        "weight": "regular"
+                      }
+                    ],
+                    "cornerRadius": "4px",
+                    "offsetTop": "0px",
+                    "backgroundColor": "#ffffff",
+                    "paddingAll": "8px",
+                    "width": "40%",
+                    "offsetEnd": "0px",
+                    "paddingBottom": "10px",
+                    "height": "45px",
+                    "borderWidth": "1px",
+                    "borderColor": "#03303A"
+                  }
+                ],
+                "offsetTop": "-5px",
+                "margin": "lg"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "$2,001 - $10,000",
+                        "color": "#ffffff",
+                        "align": "center",
+                        "size": "lg",
+                        "offsetTop": "3px",
+                        "weight": "regular"
+                      }
+                    ],
+                    "cornerRadius": "4px",
+                    "offsetTop": "0px",
+                    "backgroundColor": "#03303Acc",
+                    "paddingBottom": "10px",
+                    "paddingAll": "8px",
+                    "width": "60%",
+                    "offsetStart": "0px",
+                    "height": "45px",
+                    "borderWidth": "1px",
+                    "borderColor": "#03303A"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "? 27.00",
+                        "color": "#03303A",
+                        "align": "center",
+                        "size": "lg",
+                        "offsetTop": "3px",
+                        "weight": "regular"
+                      }
+                    ],
+                    "cornerRadius": "4px",
+                    "offsetTop": "0px",
+                    "backgroundColor": "#ffffff",
+                    "paddingAll": "8px",
+                    "width": "40%",
+                    "offsetEnd": "0px",
+                    "paddingBottom": "10px",
+                    "height": "45px",
+                    "borderWidth": "1px",
+                    "borderColor": "#03303A"
+                  }
+                ],
+                "offsetTop": "-5px",
+                "margin": "lg"
+              }
+            ],
+            "position": "absolute",
+            "offsetBottom": "0px",
+            "offsetStart": "0px",
+            "offsetEnd": "0px",
+            "backgroundColor": "#03303Aaa",
+            "paddingAll": "20px",
+            "paddingTop": "18px",
+            "offsetTop": "0px"
+          }
+        ],
+        "paddingAll": "0px"
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "giga",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://fsexchanger.files.wordpress.com/2020/04/tomswallpapers.com-109478.jpg",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "2:3",
+            "gravity": "top"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "PayPal",
+                    "size": "xl",
+                    "color": "#ffffff",
+                    "weight": "bold",
+                    "align": "center",
+                    "style": "normal"
+                  }
+                ],
+                "offsetTop": "15px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "???????",
+                    "color": "#ffffff",
+                    "align": "center",
+                    "size": "md",
+                    "offsetTop": "3px"
+                  }
+                ],
+                "position": "absolute",
+                "cornerRadius": "2px",
+                "offsetTop": "68px",
+                "offsetStart": "41%",
+                "paddingEnd": "6px",
+                "paddingBottom": "8px",
+                "paddingTop": "4px",
+                "paddingAll": "6px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "icon",
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip14.png"
+                      },
+                      {
+                        "type": "text",
+                        "text": "??????????????",
+                        "color": "#ffffff",
+                        "flex": 0,
+                        "offsetTop": "-2px"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "spacing": "sm"
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "borderWidth": "1px",
+                "cornerRadius": "4px",
+                "spacing": "sm",
+                "borderColor": "#ffffff",
+                "margin": "xxl",
+                "height": "50px",
+                "offsetBottom": "-430px",
+                "backgroundColor": "#80400077"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "????????????",
+                        "color": "#ffffff",
+                        "align": "center",
+                        "size": "lg",
+                        "offsetTop": "3px",
+                        "weight": "bold"
+                      }
+                    ],
+                    "cornerRadius": "4px",
+                    "offsetTop": "0px",
+                    "backgroundColor": "#804000aa",
+                    "paddingEnd": "6px",
+                    "paddingBottom": "10px",
+                    "paddingAll": "8px",
+                    "width": "60%",
+                    "offsetStart": "0px",
+                    "height": "45px",
+                    "borderWidth": "1px",
+                    "borderColor": "#804000"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "??????",
+                        "color": "#03303A",
+                        "align": "center",
+                        "size": "lg",
+                        "offsetTop": "3px",
+                        "weight": "bold"
+                      }
+                    ],
+                    "cornerRadius": "4px",
+                    "offsetTop": "0px",
+                    "backgroundColor": "#ffffff",
+                    "paddingAll": "8px",
+                    "width": "40%",
+                    "offsetEnd": "0px",
+                    "paddingBottom": "10px",
+                    "height": "45px",
+                    "borderColor": "#03303A",
+                    "borderWidth": "1px"
+                  }
+                ],
+                "offsetTop": "-5px",
+                "margin": "lg"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "$100 - $500",
+                        "color": "#ffffff",
+                        "align": "center",
+                        "size": "lg",
+                        "offsetTop": "3px",
+                        "weight": "regular"
+                      }
+                    ],
+                    "cornerRadius": "4px",
+                    "offsetTop": "0px",
+                    "backgroundColor": "#4d0000aa",
+                    "paddingBottom": "10px",
+                    "paddingAll": "8px",
+                    "width": "60%",
+                    "offsetStart": "0px",
+                    "height": "45px",
+                    "borderWidth": "1px",
+                    "borderColor": "#03303A"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "? 34.00",
+                        "color": "#03303A",
+                        "align": "center",
+                        "size": "lg",
+                        "offsetTop": "3px",
+                        "weight": "regular"
+                      }
+                    ],
+                    "cornerRadius": "4px",
+                    "offsetTop": "0px",
+                    "backgroundColor": "#ffffff",
+                    "paddingAll": "8px",
+                    "width": "40%",
+                    "offsetEnd": "0px",
+                    "paddingBottom": "10px",
+                    "height": "45px",
+                    "borderWidth": "1px",
+                    "borderColor": "#03303A"
+                  }
+                ],
+                "offsetTop": "-5px",
+                "margin": "lg"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "$501 - $1,000",
+                        "color": "#ffffff",
+                        "align": "center",
+                        "size": "lg",
+                        "offsetTop": "3px",
+                        "weight": "regular"
+                      }
+                    ],
+                    "cornerRadius": "4px",
+                    "backgroundColor": "#03303Acc",
+                    "width": "60%",
+                    "offsetStart": "0px",
+                    "offsetTop": "0px",
+                    "paddingBottom": "10px",
+                    "paddingAll": "8px",
+                    "height": "45px",
+                    "borderWidth": "1px",
+                    "borderColor": "#03303A"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "? 33.75",
+                        "color": "#03303A",
+                        "align": "center",
+                        "size": "lg",
+                        "offsetTop": "3px",
+                        "weight": "regular"
+                      }
+                    ],
+                    "cornerRadius": "4px",
+                    "offsetTop": "0px",
+                    "backgroundColor": "#ffffff",
+                    "paddingAll": "8px",
+                    "width": "40%",
+                    "offsetEnd": "0px",
+                    "paddingBottom": "10px",
+                    "height": "45px",
+                    "borderWidth": "1px",
+                    "borderColor": "#03303A"
+                  }
+                ],
+                "offsetTop": "-5px",
+                "margin": "lg"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "$1,001 - $1,500",
+                        "color": "#ffffff",
+                        "align": "center",
+                        "size": "lg",
+                        "offsetTop": "3px",
+                        "weight": "regular"
+                      }
+                    ],
+                    "cornerRadius": "4px",
+                    "offsetTop": "0px",
+                    "backgroundColor": "#03303Acc",
+                    "paddingBottom": "10px",
+                    "paddingAll": "8px",
+                    "width": "60%",
+                    "offsetStart": "0px",
+                    "height": "45px",
+                    "borderWidth": "1px",
+                    "borderColor": "#03303A"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "? 33.50",
+                        "color": "#03303A",
+                        "align": "center",
+                        "size": "lg",
+                        "offsetTop": "3px",
+                        "weight": "regular"
+                      }
+                    ],
+                    "cornerRadius": "4px",
+                    "offsetTop": "0px",
+                    "backgroundColor": "#ffffff",
+                    "paddingAll": "8px",
+                    "width": "40%",
+                    "offsetEnd": "0px",
+                    "paddingBottom": "10px",
+                    "height": "45px",
+                    "borderWidth": "1px",
+                    "borderColor": "#03303A"
+                  }
+                ],
+                "offsetTop": "-5px",
+                "margin": "lg"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "$1,501 - $2,000",
+                        "color": "#ffffff",
+                        "align": "center",
+                        "size": "lg",
+                        "offsetTop": "3px",
+                        "weight": "regular"
+                      }
+                    ],
+                    "cornerRadius": "4px",
+                    "offsetTop": "0px",
+                    "backgroundColor": "#03303Acc",
+                    "paddingBottom": "10px",
+                    "paddingAll": "8px",
+                    "width": "60%",
+                    "offsetStart": "0px",
+                    "height": "45px",
+                    "borderWidth": "1px",
+                    "borderColor": "#03303A"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "? 33.25",
+                        "color": "#03303A",
+                        "align": "center",
+                        "size": "lg",
+                        "offsetTop": "3px",
+                        "weight": "regular"
+                      }
+                    ],
+                    "cornerRadius": "4px",
+                    "offsetTop": "0px",
+                    "backgroundColor": "#ffffff",
+                    "paddingAll": "8px",
+                    "width": "40%",
+                    "offsetEnd": "0px",
+                    "paddingBottom": "10px",
+                    "height": "45px",
+                    "borderWidth": "1px",
+                    "borderColor": "#03303A"
+                  }
+                ],
+                "offsetTop": "-5px",
+                "margin": "lg"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "$2,001 - $10,000",
+                        "color": "#ffffff",
+                        "align": "center",
+                        "size": "lg",
+                        "offsetTop": "3px",
+                        "weight": "regular"
+                      }
+                    ],
+                    "cornerRadius": "4px",
+                    "offsetTop": "0px",
+                    "backgroundColor": "#03303Acc",
+                    "paddingBottom": "10px",
+                    "paddingAll": "8px",
+                    "width": "60%",
+                    "offsetStart": "0px",
+                    "height": "45px",
+                    "borderWidth": "1px",
+                    "borderColor": "#03303A"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "? 33.00",
+                        "color": "#03303A",
+                        "align": "center",
+                        "size": "lg",
+                        "offsetTop": "3px",
+                        "weight": "regular"
+                      }
+                    ],
+                    "cornerRadius": "4px",
+                    "offsetTop": "0px",
+                    "backgroundColor": "#ffffff",
+                    "paddingAll": "8px",
+                    "width": "40%",
+                    "offsetEnd": "0px",
+                    "paddingBottom": "10px",
+                    "height": "45px",
+                    "borderWidth": "1px",
+                    "borderColor": "#03303A"
+                  }
+                ],
+                "offsetTop": "-5px",
+                "margin": "lg"
+              }
+            ],
+            "position": "absolute",
+            "offsetBottom": "0px",
+            "offsetStart": "0px",
+            "offsetEnd": "0px",
+            "backgroundColor": "#9C8E7Ecc",
+            "paddingAll": "20px",
+            "paddingTop": "18px",
+            "offsetTop": "0px"
+          }
+        ],
+        "paddingAll": "0px"
+      }
+    }
+  ]
+}

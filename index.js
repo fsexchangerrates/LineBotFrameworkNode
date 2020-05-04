@@ -4,7 +4,7 @@ const line = require('@line/bot-sdk');
 const express = require('express');
 
 const constants = require("./app/constants")
-// create LINE SDK config from env variables
+    // create LINE SDK config from env variables
 const config = {
     channelAccessToken: constants.channelAccess,
     channelSecret: constants.channelSecret,
@@ -31,10 +31,19 @@ app.post('/callback', line.middleware(config), (req, res) => {
         });
 });
 
+const replyText = (token, texts) => {
+    texts = Array.isArray(texts) ? texts : [texts];
+    return client.replyMessage(
+        token,
+        texts.map((text) => ({ type: 'text', text }))
+    );
+};
+
 // event handler
 function handleEvent(event) {
     return eventHandler(client, event, baseURL)
 }
+
 // listen on port
 const port = process.env.PORT || 3000;
 app.listen(port, () => {
