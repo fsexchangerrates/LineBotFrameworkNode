@@ -10,122 +10,333 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://fsexchanger.files.wordpress.com/2020/04/tomswallpapers.com-110033.jpg",
             "size": "full",
             "aspectMode": "cover",
-            "aspectRatio": "2:3",
-            "gravity": "top"
+            "aspectRatio": "1:1",
+            "gravity": "center",
+            "url": "https://fsexchanger.files.wordpress.com/2020/04/l2-2500x16862-1.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://fsexchanger.files.wordpress.com/2020/05/bg0000-11.png",
+            "position": "absolute",
+            "aspectRatio": "1:1",
+            "size": "full",
+            "aspectMode": "cover"
           },
           {
             "type": "box",
-            "layout": "vertical",
+            "layout": "horizontal",
             "contents": [
               {
                 "type": "box",
                 "layout": "vertical",
                 "contents": [
                   {
-                    "type": "text",
-                    "text": "???????????????",
-                    "size": "xl",
-                    "color": "#ffffff",
-                    "weight": "bold"
-                  }
-                ]
-              },
-              {
-                "type": "box",
-                "layout": "baseline",
-                "contents": [
-                  {
-                    "type": "text",
-                    "text": "???????????????????-???????????????",
-                    "color": "#ebebeb",
-                    "size": "sm",
-                    "flex": 0
-                  }
-                ],
-                "spacing": "lg"
-              },
-              {
-                "type": "box",
-                "layout": "vertical",
-                "contents": [
-                  {
-                    "type": "filler"
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "ดูอัตราแลกเปลี่ยน",
+                        "size": "xl",
+                        "color": "#ffffff"
+                      }
+                    ]
                   },
                   {
                     "type": "box",
                     "layout": "baseline",
                     "contents": [
                       {
-                        "type": "filler"
+                        "type": "icon",
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
                       },
                       {
                         "type": "icon",
-                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip14.png"
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                      },
+                      {
+                        "type": "icon",
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                      },
+                      {
+                        "type": "icon",
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                      },
+                      {
+                        "type": "icon",
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
                       },
                       {
                         "type": "text",
-                        "text": "?????????????????",
-                        "color": "#ffffff",
-                        "flex": 0,
-                        "offsetTop": "-2px"
-                      },
-                      {
-                        "type": "filler"
+                        "text": "4.0",
+                        "color": "#a9a9a9"
                       }
                     ],
-                    "spacing": "sm"
+                    "spacing": "xs"
                   },
                   {
-                    "type": "filler"
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                          {
+                            "type": "text",
+                            "text": "โปรดตรวจเช็คราคาก่อนซื้อ-ขายทุกครั้ง",
+                            "color": "#e6e6e6",
+                            "size": "md",
+                            "flex": 0,
+                            "align": "end"
+                          }
+                        ],
+                        "flex": 0,
+                        "spacing": "lg"
+                      }
+                    ]
                   }
                 ],
-                "borderWidth": "1px",
-                "cornerRadius": "4px",
-                "spacing": "sm",
-                "borderColor": "#ffffff",
-                "margin": "xxl",
-                "height": "40px",
-                "action": {
-                  "type": "postback",
-                  "label": "curreny",
-                  "data": "hello"
-                }
+                "spacing": "xs"
               }
             ],
             "position": "absolute",
             "offsetBottom": "0px",
             "offsetStart": "0px",
             "offsetEnd": "0px",
-            "backgroundColor": "#03303Acc",
             "paddingAll": "20px",
-            "paddingTop": "18px"
+            "backgroundColor": "#03303Acc"
+          }
+        ],
+        "paddingAll": "0px",
+        "action": {
+          "type": "postback",
+          "label": "action: 'show'?data='currency'",
+          "data": "currency",
+          "displayText": "currency"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "1:1",
+            "gravity": "center",
+            "url": "https://fsexchanger.files.wordpress.com/2020/04/tomswallpapers.com-109478.jpg"
           },
           {
             "type": "box",
-            "layout": "vertical",
+            "layout": "horizontal",
             "contents": [
               {
-                "type": "text",
-                "text": "FS-CURRENCY",
-                "color": "#ffffff",
-                "align": "center",
-                "size": "xs",
-                "offsetTop": "3px",
-                "weight": "bold"
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "แจ้งโอนขาย แจ้งโอนซื้อ",
+                        "size": "xl",
+                        "color": "#000000"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "icon",
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                      },
+                      {
+                        "type": "icon",
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                      },
+                      {
+                        "type": "icon",
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                      },
+                      {
+                        "type": "icon",
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                      },
+                      {
+                        "type": "icon",
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                      },
+                      {
+                        "type": "text",
+                        "text": "4.0",
+                        "color": "#a9a9a9"
+                      }
+                    ],
+                    "spacing": "xs"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                          {
+                            "type": "text",
+                            "text": "โปรดตรวจเช็คราคาก่อนซื้อ-ขายทุกครั้ง",
+                            "color": "#e6e6e6",
+                            "size": "md",
+                            "flex": 0,
+                            "align": "end"
+                          }
+                        ],
+                        "flex": 0,
+                        "spacing": "lg"
+                      }
+                    ]
+                  }
+                ],
+                "spacing": "xs"
               }
             ],
             "position": "absolute",
-            "cornerRadius": "20px",
-            "offsetTop": "18px",
-            "backgroundColor": "#03303A",
-            "offsetStart": "18px",
-            "paddingAll": "4px"
+            "offsetBottom": "0px",
+            "offsetStart": "0px",
+            "offsetEnd": "0px",
+            "paddingAll": "20px",
+            "backgroundColor": "#996633cc"
           }
         ],
-        "paddingAll": "0px"
+        "paddingAll": "0px",
+        "action": {
+          "type": "postback",
+          "label": "action: 'show'?data='currency'",
+          "data": "currency",
+          "displayText": "currency"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "1:1",
+            "gravity": "center",
+            "url": "https://fsexchanger.files.wordpress.com/2020/04/tomswallpapers.com-110033.jpg"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "ดูอัตราแลกเปลี่ยน",
+                        "size": "xl",
+                        "color": "#ffffff"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "icon",
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                      },
+                      {
+                        "type": "icon",
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                      },
+                      {
+                        "type": "icon",
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                      },
+                      {
+                        "type": "icon",
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                      },
+                      {
+                        "type": "icon",
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                      },
+                      {
+                        "type": "text",
+                        "text": "4.0",
+                        "color": "#a9a9a9"
+                      }
+                    ],
+                    "spacing": "xs"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                          {
+                            "type": "text",
+                            "text": "โปรดตรวจเช็คราคาก่อนซื้อ-ขายทุกครั้ง",
+                            "color": "#e6e6e6",
+                            "size": "md",
+                            "flex": 0,
+                            "align": "end"
+                          }
+                        ],
+                        "flex": 0,
+                        "spacing": "lg"
+                      }
+                    ]
+                  }
+                ],
+                "spacing": "xs"
+              }
+            ],
+            "position": "absolute",
+            "offsetBottom": "0px",
+            "offsetStart": "0px",
+            "offsetEnd": "0px",
+            "paddingAll": "20px",
+            "backgroundColor": "#03303Acc"
+          }
+        ],
+        "paddingAll": "0px",
+        "action": {
+          "type": "postback",
+          "label": "action: 'show'?data='currency'",
+          "data": "currency",
+          "displayText": "currency"
+        }
       }
     },
     {
@@ -140,255 +351,101 @@
             "url": "https://fsexchanger.files.wordpress.com/2020/04/tomswallpapers.com-88183.jpg",
             "size": "full",
             "aspectMode": "cover",
-            "aspectRatio": "2:3",
-            "gravity": "top"
+            "aspectRatio": "1:1",
+            "gravity": "center"
           },
           {
             "type": "box",
-            "layout": "vertical",
+            "layout": "horizontal",
             "contents": [
               {
                 "type": "box",
                 "layout": "vertical",
                 "contents": [
                   {
-                    "type": "text",
-                    "text": "???????????",
-                    "size": "xl",
-                    "color": "#ffffff",
-                    "weight": "bold"
-                  }
-                ]
-              },
-              {
-                "type": "box",
-                "layout": "baseline",
-                "contents": [
-                  {
-                    "type": "text",
-                    "text": "??????????????????????????? \"?????????\"",
-                    "color": "#ebebeb",
-                    "size": "sm",
-                    "flex": 0
-                  }
-                ],
-                "spacing": "lg"
-              },
-              {
-                "type": "box",
-                "layout": "vertical",
-                "contents": [
-                  {
-                    "type": "filler"
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "ดูวิธีซื้อ-ขาย ดูกฏระเบียบ",
+                        "size": "xl",
+                        "color": "#ffffff"
+                      }
+                    ]
                   },
                   {
                     "type": "box",
                     "layout": "baseline",
                     "contents": [
                       {
-                        "type": "filler"
+                        "type": "icon",
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
                       },
                       {
                         "type": "icon",
-                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip14.png"
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                      },
+                      {
+                        "type": "icon",
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                      },
+                      {
+                        "type": "icon",
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                      },
+                      {
+                        "type": "icon",
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
                       },
                       {
                         "type": "text",
-                        "text": "??????????? ???? !",
-                        "color": "#ffffff",
-                        "flex": 0,
-                        "offsetTop": "-2px"
-                      },
-                      {
-                        "type": "filler"
+                        "text": "4.0",
+                        "color": "#a9a9a9"
                       }
                     ],
-                    "spacing": "sm"
+                    "spacing": "xs"
                   },
                   {
-                    "type": "filler"
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                          {
+                            "type": "text",
+                            "text": "ดูขั้นตอนซื้อขาย ข้อตกลงการใช้บริการ",
+                            "color": "#ffffff",
+                            "size": "md",
+                            "flex": 0,
+                            "align": "end",
+                            "action": {
+                              "type": "uri",
+                              "label": "guide",
+                              "uri": "line://app/1654168555-z90KwaXX",
+                              "altUri": {
+                                "desktop": "https://liff.line.me/1654168555-z90KwaXX"
+                              }
+                            }
+                          }
+                        ],
+                        "flex": 0,
+                        "spacing": "lg"
+                      }
+                    ]
                   }
                 ],
-                "borderWidth": "1px",
-                "cornerRadius": "4px",
-                "spacing": "sm",
-                "borderColor": "#ffffff",
-                "margin": "xxl",
-                "height": "40px",
-                "action": {
-                  "type": "postback",
-                  "label": "curreny",
-                  "data": "hello"
-                }
+                "spacing": "xs"
               }
             ],
             "position": "absolute",
             "offsetBottom": "0px",
             "offsetStart": "0px",
             "offsetEnd": "0px",
-            "backgroundColor": "#006080cc",
             "paddingAll": "20px",
-            "paddingTop": "18px"
-          },
-          {
-            "type": "box",
-            "layout": "vertical",
-            "contents": [
-              {
-                "type": "text",
-                "text": "FS-REGISTER",
-                "color": "#ffffff",
-                "align": "center",
-                "size": "xs",
-                "offsetTop": "3px",
-                "weight": "bold"
-              }
-            ],
-            "position": "absolute",
-            "cornerRadius": "20px",
-            "offsetTop": "18px",
-            "backgroundColor": "#006699",
-            "offsetStart": "18px",
-            "paddingAll": "4px"
-          }
-        ],
-        "paddingAll": "0px"
-      }
-    },
-    {
-      "type": "bubble",
-      "size": "mega",
-      "body": {
-        "type": "box",
-        "layout": "vertical",
-        "contents": [
-          {
-            "type": "image",
-            "url": "https://fsexchanger.files.wordpress.com/2020/04/tomswallpapers.com-109478.jpg",
-            "size": "full",
-            "aspectMode": "cover",
-            "aspectRatio": "2:3",
-            "gravity": "top"
-          },
-          {
-            "type": "box",
-            "layout": "vertical",
-            "contents": [
-              {
-                "type": "box",
-                "layout": "vertical",
-                "contents": [
-                  {
-                    "type": "text",
-                    "text": "??????????? ??? ?????????",
-                    "size": "xl",
-                    "color": "#ffffff",
-                    "weight": "bold"
-                  }
-                ]
-              },
-              {
-                "type": "box",
-                "layout": "baseline",
-                "contents": [
-                  {
-                    "type": "text",
-                    "text": "?????????? ??????? ??? ?????????????????????",
-                    "color": "#ebebeb",
-                    "size": "sm",
-                    "flex": 0,
-                    "wrap": true,
-                    "align": "start"
-                  }
-                ],
-                "spacing": "lg"
-              },
-              {
-                "type": "box",
-                "layout": "vertical",
-                "contents": [
-                  {
-                    "type": "filler"
-                  },
-                  {
-                    "type": "box",
-                    "layout": "baseline",
-                    "contents": [
-                      {
-                        "type": "filler"
-                      },
-                      {
-                        "type": "icon",
-                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip14.png"
-                      },
-                      {
-                        "type": "text",
-                        "text": "????????????? / ?????????",
-                        "color": "#ffffff",
-                        "flex": 0,
-                        "offsetTop": "-2px",
-                        "align": "center",
-                        "gravity": "center"
-                      },
-                      {
-                        "type": "filler"
-                      }
-                    ],
-                    "spacing": "sm",
-                    "action": {
-                      "type": "uri",
-                      "uri": "http://linecorp.com/",
-                      "altUri": {
-                        "desktop": "http://linecorp.com/"
-                      },
-                      "label": "greeting, guide"
-                    }
-                  },
-                  {
-                    "type": "filler"
-                  }
-                ],
-                "borderWidth": "1px",
-                "cornerRadius": "4px",
-                "spacing": "sm",
-                "borderColor": "#ffffff",
-                "margin": "xxl",
-                "height": "40px",
-                "backgroundColor": "#b3590033"
-              }
-            ],
-            "position": "absolute",
-            "offsetStart": "0px",
-            "offsetEnd": "0px",
-            "backgroundColor": "#15070ecc",
-            "paddingAll": "20px",
-            "paddingTop": "18px",
-            "offsetBottom": "0px"
-          },
-          {
-            "type": "box",
-            "layout": "vertical",
-            "contents": [
-              {
-                "type": "text",
-                "text": "FS-GUIDE",
-                "color": "#ffffff",
-                "align": "center",
-                "size": "xs",
-                "offsetTop": "3px",
-                "margin": "xxl",
-                "weight": "bold",
-                "gravity": "center"
-              }
-            ],
-            "position": "absolute",
-            "cornerRadius": "20px",
-            "offsetTop": "18px",
-            "backgroundColor": "#9C8E7Ecc",
-            "offsetStart": "18px",
-            "paddingAll": "6px",
-            "paddingStart": "10px",
-            "paddingEnd": "10px"
+            "backgroundColor": "#006699cc"
           }
         ],
         "paddingAll": "0px"
@@ -406,167 +463,104 @@
             "url": "https://fsexchanger.files.wordpress.com/2020/04/tomswallpapers.com-101066.jpg",
             "size": "full",
             "aspectMode": "cover",
-            "aspectRatio": "2:3",
-            "gravity": "top"
+            "aspectRatio": "1:1",
+            "gravity": "center"
           },
           {
             "type": "box",
-            "layout": "vertical",
+            "layout": "horizontal",
             "contents": [
               {
                 "type": "box",
                 "layout": "vertical",
                 "contents": [
                   {
-                    "type": "text",
-                    "text": "??????????? ",
-                    "size": "xl",
-                    "color": "#ffffff",
-                    "weight": "bold"
-                  }
-                ]
-              },
-              {
-                "type": "box",
-                "layout": "baseline",
-                "contents": [
-                  {
-                    "type": "text",
-                    "text": "??????????????????????????????????????????",
-                    "color": "#ebebeb",
-                    "size": "sm",
-                    "flex": 0
-                  }
-                ],
-                "spacing": "lg"
-              },
-              {
-                "type": "box",
-                "layout": "vertical",
-                "contents": [
-                  {
-                    "type": "filler"
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "ศูนย์สมาชิก ติดตามซื้อ-ขาย",
+                        "size": "xl",
+                        "color": "#ffffff"
+                      }
+                    ]
                   },
                   {
                     "type": "box",
                     "layout": "baseline",
                     "contents": [
                       {
-                        "type": "filler"
+                        "type": "icon",
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
                       },
                       {
                         "type": "icon",
-                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip14.png"
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                      },
+                      {
+                        "type": "icon",
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                      },
+                      {
+                        "type": "icon",
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                      },
+                      {
+                        "type": "icon",
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
                       },
                       {
                         "type": "text",
-                        "text": "??????????",
-                        "color": "#ffffff",
-                        "flex": 0,
-                        "offsetTop": "-2px"
-                      },
-                      {
-                        "type": "filler"
+                        "text": "4.0",
+                        "color": "#a9a9a9"
                       }
                     ],
-                    "spacing": "sm"
-                  },
-                  {
-                    "type": "filler"
-                  }
-                ],
-                "borderWidth": "1px",
-                "cornerRadius": "4px",
-                "spacing": "sm",
-                "borderColor": "#ffffff",
-                "margin": "xxl",
-                "height": "40px",
-                "action": {
-                  "type": "postback",
-                  "label": "curreny",
-                  "data": "hello"
-                }
-              },
-              {
-                "type": "box",
-                "layout": "vertical",
-                "contents": [
-                  {
-                    "type": "filler"
+                    "spacing": "xs"
                   },
                   {
                     "type": "box",
-                    "layout": "baseline",
+                    "layout": "horizontal",
                     "contents": [
                       {
-                        "type": "filler"
-                      },
-                      {
-                        "type": "icon",
-                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip14.png"
-                      },
-                      {
-                        "type": "text",
-                        "text": "?????????",
-                        "color": "#333333",
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                          {
+                            "type": "text",
+                            "text": "ติดตามสถานะการซื้อขาย ข้อมูลธนาคาร",
+                            "color": "#e6e6e6",
+                            "size": "md",
+                            "flex": 0,
+                            "align": "end"
+                          }
+                        ],
                         "flex": 0,
-                        "offsetTop": "-2px",
-                        "weight": "bold"
-                      },
-                      {
-                        "type": "filler"
+                        "spacing": "lg"
                       }
-                    ],
-                    "spacing": "sm"
-                  },
-                  {
-                    "type": "filler"
+                    ]
                   }
                 ],
-                "borderWidth": "1px",
-                "cornerRadius": "4px",
-                "spacing": "sm",
-                "borderColor": "#e6f7ff",
-                "margin": "xxl",
-                "height": "40px",
-                "action": {
-                  "type": "postback",
-                  "label": "curreny",
-                  "data": "hello"
-                },
-                "backgroundColor": "#f2f2f2ff"
+                "spacing": "xs"
               }
             ],
             "position": "absolute",
             "offsetBottom": "0px",
             "offsetStart": "0px",
             "offsetEnd": "0px",
-            "backgroundColor": "#03303Acc",
             "paddingAll": "20px",
-            "paddingTop": "18px"
-          },
-          {
-            "type": "box",
-            "layout": "vertical",
-            "contents": [
-              {
-                "type": "text",
-                "text": "FS-RATES",
-                "color": "#ffffff",
-                "align": "center",
-                "size": "xs",
-                "offsetTop": "3px",
-                "weight": "bold"
-              }
-            ],
-            "position": "absolute",
-            "cornerRadius": "20px",
-            "offsetTop": "18px",
-            "backgroundColor": "#03303A",
-            "offsetStart": "18px"
+            "backgroundColor": "#005580cc"
           }
         ],
-        "paddingAll": "0px"
+        "paddingAll": "0px",
+        "action": {
+          "type": "uri",
+          "label": "guide",
+          "uri": "line://app/1654168555-w3326mkk",
+          "altUri": {
+            "desktop": "https://liff.line.me/1654168555-w3326mkk"
+          }
+        }
       }
     },
     {
@@ -578,307 +572,195 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://fsexchanger.files.wordpress.com/2020/04/r201.jpg",
-            "aspectRatio": "2:3",
-            "margin": "none",
-            "offsetTop": "0px",
+            "url": "https://fsexchanger.files.wordpress.com/2020/04/tomswallpapers.com-18595.jpg",
+            "size": "full",
             "aspectMode": "cover",
-            "align": "end",
-            "gravity": "top",
-            "position": "absolute",
-            "size": "full"
+            "aspectRatio": "1:1",
+            "gravity": "center"
           },
           {
             "type": "box",
-            "layout": "vertical",
+            "layout": "horizontal",
             "contents": [
               {
                 "type": "box",
                 "layout": "vertical",
                 "contents": [
                   {
-                    "type": "text",
-                    "text": "???????????",
-                    "size": "xl",
-                    "color": "#00111a",
-                    "weight": "bold",
-                    "align": "end"
-                  }
-                ]
-              },
-              {
-                "type": "box",
-                "layout": "baseline",
-                "contents": [
-                  {
-                    "type": "text",
-                    "text": "?????????????????",
-                    "color": "#00111a",
-                    "align": "end",
-                    "gravity": "center",
-                    "size": "sm",
-                    "offsetBottom": "0px",
-                    "offsetEnd": "0px",
-                    "margin": "md"
-                  }
-                ],
-                "spacing": "xl",
-                "backgroundColor": "#e9e9e9aa",
-                "cornerRadius": "20px",
-                "paddingAll": "3px",
-                "margin": "md",
-                "offsetEnd": "18px",
-                "position": "absolute",
-                "flex": 0,
-                "offsetTop": "50px"
-              },
-              {
-                "type": "box",
-                "layout": "baseline",
-                "contents": [
-                  {
-                    "type": "text",
-                    "text": "????????????? - ???",
-                    "color": "#00111a",
-                    "align": "end",
-                    "gravity": "center",
-                    "size": "sm",
-                    "offsetBottom": "0px",
-                    "offsetEnd": "0px",
-                    "margin": "md"
-                  }
-                ],
-                "spacing": "xl",
-                "backgroundColor": "#e9e9e9aa",
-                "cornerRadius": "20px",
-                "paddingAll": "3px",
-                "margin": "md",
-                "offsetEnd": "18px",
-                "position": "absolute",
-                "flex": 0,
-                "offsetTop": "70px"
-              },
-              {
-                "type": "box",
-                "layout": "baseline",
-                "contents": [
-                  {
-                    "type": "text",
-                    "text": "???????? ???????????????? ",
-                    "color": "#00111a",
-                    "align": "end",
-                    "gravity": "center",
-                    "size": "sm",
-                    "offsetBottom": "0px",
-                    "offsetEnd": "0px",
-                    "margin": "md"
-                  }
-                ],
-                "spacing": "xl",
-                "backgroundColor": "#e9e9e9aa",
-                "cornerRadius": "20px",
-                "paddingAll": "3px",
-                "margin": "md",
-                "offsetEnd": "18px",
-                "position": "absolute",
-                "flex": 0,
-                "offsetTop": "90px"
-              },
-              {
-                "type": "box",
-                "layout": "baseline",
-                "contents": [
-                  {
-                    "type": "text",
-                    "text": "??????????????",
-                    "color": "#00111a",
-                    "align": "end",
-                    "gravity": "center",
-                    "size": "sm",
-                    "offsetBottom": "0px",
-                    "offsetEnd": "0px",
-                    "margin": "md"
-                  }
-                ],
-                "spacing": "xl",
-                "backgroundColor": "#e9e9e9aa",
-                "cornerRadius": "20px",
-                "paddingAll": "3px",
-                "margin": "md",
-                "offsetEnd": "18px",
-                "position": "absolute",
-                "flex": 0,
-                "offsetTop": "110px"
-              },
-              {
-                "type": "box",
-                "layout": "baseline",
-                "contents": [
-                  {
-                    "type": "text",
-                    "text": "????????????????????",
-                    "color": "#00111a",
-                    "align": "end",
-                    "gravity": "center",
-                    "size": "sm",
-                    "offsetBottom": "0px",
-                    "offsetEnd": "0px",
-                    "margin": "md"
-                  }
-                ],
-                "spacing": "xl",
-                "backgroundColor": "#e9e9e9aa",
-                "cornerRadius": "20px",
-                "paddingAll": "3px",
-                "margin": "md",
-                "offsetEnd": "18px",
-                "position": "absolute",
-                "flex": 0,
-                "offsetTop": "130px"
-              },
-              {
-                "type": "box",
-                "layout": "baseline",
-                "contents": [
-                  {
-                    "type": "text",
-                    "text": "???????????",
-                    "color": "#00111a",
-                    "align": "end",
-                    "gravity": "center",
-                    "size": "sm",
-                    "offsetBottom": "0px",
-                    "offsetEnd": "0px",
-                    "margin": "md"
-                  }
-                ],
-                "spacing": "xl",
-                "backgroundColor": "#e9e9e9aa",
-                "cornerRadius": "20px",
-                "paddingAll": "3px",
-                "margin": "md",
-                "offsetEnd": "18px",
-                "position": "absolute",
-                "flex": 0,
-                "offsetTop": "150px"
-              },
-              {
-                "type": "box",
-                "layout": "baseline",
-                "contents": [
-                  {
-                    "type": "text",
-                    "text": "??????????????????????",
-                    "color": "#00111a",
-                    "align": "end",
-                    "gravity": "center",
-                    "size": "sm",
-                    "offsetBottom": "0px",
-                    "offsetEnd": "0px",
-                    "margin": "md"
-                  }
-                ],
-                "spacing": "xl",
-                "backgroundColor": "#e9e9e9aa",
-                "cornerRadius": "20px",
-                "paddingAll": "3px",
-                "margin": "md",
-                "offsetEnd": "18px",
-                "position": "absolute",
-                "flex": 0,
-                "offsetTop": "170px"
-              },
-              {
-                "type": "box",
-                "layout": "vertical",
-                "contents": [
-                  {
-                    "type": "filler"
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "สมัครสมาชิก และยินยันตัวตน",
+                        "size": "xl",
+                        "color": "#ffffff"
+                      }
+                    ]
                   },
                   {
                     "type": "box",
                     "layout": "baseline",
                     "contents": [
                       {
-                        "type": "filler"
+                        "type": "icon",
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
                       },
                       {
                         "type": "icon",
-                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip14.png"
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                      },
+                      {
+                        "type": "icon",
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                      },
+                      {
+                        "type": "icon",
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                      },
+                      {
+                        "type": "icon",
+                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
                       },
                       {
                         "type": "text",
-                        "text": "??????????? / ???????????",
-                        "color": "#ffffff",
-                        "flex": 0,
-                        "offsetTop": "-2px"
-                      },
-                      {
-                        "type": "filler"
+                        "text": "4.0",
+                        "color": "#a9a9a9"
                       }
                     ],
-                    "spacing": "sm"
+                    "spacing": "xs"
                   },
                   {
-                    "type": "filler"
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                          {
+                            "type": "text",
+                            "text": "สมัครสมาชิก ส่งหลักฐานยืนยันตัาตน",
+                            "color": "#e6e6e6",
+                            "size": "md",
+                            "flex": 0,
+                            "align": "end"
+                          }
+                        ],
+                        "flex": 0,
+                        "spacing": "lg"
+                      }
+                    ]
                   }
                 ],
-                "borderWidth": "1px",
-                "cornerRadius": "4px",
-                "spacing": "sm",
-                "borderColor": "#00111a",
-                "margin": "xxl",
-                "height": "40px",
-                "action": {
-                  "type": "postback",
-                  "label": "curreny",
-                  "data": "hello"
-                },
-                "offsetStart": "18px",
-                "offsetEnd": "18px",
-                "offsetBottom": "18px",
-                "position": "absolute",
-                "backgroundColor": "#00111acc"
+                "spacing": "xs"
               }
             ],
             "position": "absolute",
+            "offsetBottom": "0px",
             "offsetStart": "0px",
             "offsetEnd": "0px",
-            "backgroundColor": "#00111a11",
             "paddingAll": "20px",
-            "paddingTop": "18px",
-            "offsetTop": "0px",
-            "height": "100%"
-          },
-          {
-            "type": "box",
-            "layout": "vertical",
-            "contents": [
-              {
-                "type": "text",
-                "text": "FS-MEMBER AREA",
-                "color": "#ffffff",
-                "align": "center",
-                "size": "xs",
-                "offsetTop": "3px",
-                "weight": "bold"
-              }
-            ],
-            "position": "absolute",
-            "cornerRadius": "20px",
-            "backgroundColor": "#00111a",
-            "paddingAll": "4px",
-            "offsetTop": "18px",
-            "offsetStart": "18px"
+            "backgroundColor": "#001a1acc"
           }
         ],
         "paddingAll": "0px",
-        "spacing": "none",
-        "margin": "none",
-        "offsetTop": "0px",
-        "width": "100%",
-        "height": "100%",
-        "offsetBottom": "0px"
+        "action": {
+          "type": "uri",
+          "label": "register or verify",
+          "uri": "line://app/1654168555-M0qDQvgg"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://fsexchanger.files.wordpress.com/2020/04/r003.jpg",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "1:1",
+            "gravity": "center"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "ติดต่อ สอบถาม",
+                        "size": "xl",
+                        "color": "#ffffff",
+                        "align": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "ไลน์ ไอดี: @136mjagl (มี @ ด้วย)",
+                        "color": "#ffff00",
+                        "align": "center"
+                      }
+                    ],
+                    "spacing": "xs"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                          {
+                            "type": "text",
+                            "text": "เปิดตลอด 24 ชั่วโมง  โทร.0865001236",
+                            "color": "#e6e6e6",
+                            "size": "md",
+                            "flex": 0,
+                            "align": "end"
+                          }
+                        ],
+                        "flex": 0,
+                        "spacing": "lg"
+                      }
+                    ]
+                  }
+                ],
+                "spacing": "xs"
+              }
+            ],
+            "position": "absolute",
+            "offsetBottom": "0px",
+            "offsetStart": "0px",
+            "offsetEnd": "0px",
+            "paddingAll": "20px",
+            "backgroundColor": "#006680cc"
+          }
+        ],
+        "paddingAll": "0px",
+        "action": {
+          "type": "uri",
+          "label": "contact us",
+          "uri": "https://lin.ee/g5vsfzJ"
+        }
       }
     }
   ]
