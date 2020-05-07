@@ -1,5 +1,3 @@
-'use strict';
-
 const line = require('@line/bot-sdk');
 const express = require('express');
 
@@ -18,6 +16,18 @@ const baseURL = process.env.BASE_URL
 // about Express itself: https://expressjs.com/
 const app = express();
 const eventHandler = require('./app/eventHandler')
+
+const path = require('path')
+const greeting = require('./app/messages/greeting.json')
+const currency = require('./app/messages/currency.json')
+const paypal = require('./app/messages/paypal.json')
+const webmoney = require('./app/messages/webmoney.json')
+
+app.use(path('path', data.join(__dirname, 'messages')))
+app.use(greeting(data.join(__filename, 'greeting')))
+app.use(bodyParser.json(currency(data.join(__filename, 'currency.json'))))
+app.use(bodyParser.json(paypal(data.join(__filename, 'paypal.json'))))
+app.use(bodyParser.json())
 
 // register a webhook handler with middleware
 // about the middleware, please refer to doc
@@ -45,7 +55,7 @@ function handleEvent(event) {
 }
 
 // listen on port
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 5000;
 app.listen(port, () => {
     console.log(`listening on ${port}`);
 });

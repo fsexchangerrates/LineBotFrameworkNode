@@ -1,4 +1,7 @@
 const currency = require("./../messages/currency.json")
+const paypal = require('./../messages/paypal.json')
+const webmoney = require('./../messages/webmoney.json')
+const greeting = require('./../messages/greeting.json')
 
 function handle(client, event) {
     var userId = event.source.userId
@@ -6,7 +9,7 @@ function handle(client, event) {
     var richMenuId_2 = 'vvvvvvvvvv'
     var replyToken = event.replyToken
     var data = event.postback.data
-    client.getPosbackData(data).then(
+    client.getPostbackData(data).then(
         (data) => {
             if (event.type === 'postback') {
                 if (data === 'nextMenu') {
@@ -15,11 +18,17 @@ function handle(client, event) {
                     return client.linkRichMenuToUser(userId, richMenuId_1)
                 } else if (data === 'currency') {
                     return client.replyMessage(replyToken, currency)
+                } else if (data === 'paypal') {
+                    return client.replyMessage(replyToken, paypal)
+                } else if (data === 'webmoney') {
+                    return client.replyMessage(replyToken, webmoney)
                 }
             }
         }
     )
 
+    return client.replyMessage(event.replyToken, greeting)
+
 }
 
-module.exports = handle
+module.exports = handle;
