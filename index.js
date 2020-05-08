@@ -24,10 +24,10 @@ const paypal = require('./app/messages/paypal.json')
 const webmoney = require('./app/messages/webmoney.json')
 
 app.use(path('path', data.join(__dirname, 'messages')))
-app.use(greeting(data.join(__filename, 'greeting')))
-app.use(bodyParser.json(currency(data.join(__filename, 'currency.json'))))
-app.use(bodyParser.json(paypal(data.join(__filename, 'paypal.json'))))
-app.use(bodyParser.json())
+app.use(bodyParser.json(greeting, __filename('greeting.json')))
+app.use(bodyParser.json(currency, __filename('currency.json')))
+app.use(bodyParser.json(paypal, __filename('paypal.json')))
+app.use(bodyParser.json(webmoney, __filename('webmoney.json')))
 
 // register a webhook handler with middleware
 // about the middleware, please refer to doc
