@@ -4,31 +4,23 @@ const webmoney = require('./../messages/webmoney.json')
 const greeting = require('./../messages/greeting.json')
 
 function handle(client, event) {
-    var userId = event.source.userId
     var richMenuId_1 = 'xsdfffffffff'
     var richMenuId_2 = 'vvvvvvvvvv'
-    var replyToken = event.replyToken
     var data = event.postback.data
-    client.getPostbackData(data).then(
-        (data) => {
-            if (event.type === 'postback') {
-                if (data === 'nextMenu') {
-                    return client.linkRichMenuToUser(userId, richMenuId_2)
-                } else if (data === 'previous') {
-                    return client.linkRichMenuToUser(userId, richMenuId_1)
-                } else if (data === 'currency') {
-                    return client.replyMessage(replyToken, currency)
-                } else if (data === 'paypal') {
-                    return client.replyMessage(replyToken, paypal)
-                } else if (data === 'webmoney') {
-                    return client.replyMessage(replyToken, webmoney)
-                }
-            }
-        }
-    )
-
-    return client.replyMessage(event.replyToken, greeting)
-
+    switch (data) {
+        case 'NextMenu':
+            return client.linkRichMenuToUser(event.source.userId, richMenuId_2);
+        case 'Previous':
+            return client.linkRichMenuToUser(event.source.userId, richMenuId_1);
+        case 'currency':
+            return client.replyMessage(event.replyToken, currency);
+        case 'paypal':
+            return client.replyMessage(event.replyToken, paypal);
+        case 'webmoney':
+            return client.replyMessage(event.replyToken, webmoney);
+        default:
+            console.log(client.linkRichMenuToUser, client.replyMessage)
+    }
 }
 
 module.exports = handle;

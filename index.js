@@ -17,18 +17,6 @@ const baseURL = process.env.BASE_URL
 const app = express();
 const eventHandler = require('./app/eventHandler')
 
-const path = require('path')
-const greeting = require('./app/messages/greeting.json')
-const currency = require('./app/messages/currency.json')
-const paypal = require('./app/messages/paypal.json')
-const webmoney = require('./app/messages/webmoney.json')
-
-app.use(path('path', data.join(__dirname, 'messages')))
-app.use(bodyParser.json(greeting, __filename('greeting.json')))
-app.use(bodyParser.json(currency, __filename('currency.json')))
-app.use(bodyParser.json(paypal, __filename('paypal.json')))
-app.use(bodyParser.json(webmoney, __filename('webmoney.json')))
-
 // register a webhook handler with middleware
 // about the middleware, please refer to doc
 app.post('/callback', line.middleware(config), (req, res) => {
@@ -40,14 +28,6 @@ app.post('/callback', line.middleware(config), (req, res) => {
             res.status(500).end();
         });
 });
-
-const replyText = (token, texts) => {
-    texts = Array.isArray(texts) ? texts : [texts];
-    return client.replyMessage(
-        token,
-        texts.map((text) => ({ type: 'text', text }))
-    );
-};
 
 // event handler
 function handleEvent(event) {
