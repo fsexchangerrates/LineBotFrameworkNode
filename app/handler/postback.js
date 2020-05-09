@@ -1,4 +1,6 @@
 const flex = require('../template/flex')
+let richMenuId_1 = 'hhhhhhhhhhhhh'
+let richMenuId_2 = 'ffffffffff'
 
 function handle(client, event) {
     var userId = event.source.userId

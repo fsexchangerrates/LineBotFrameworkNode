@@ -11,19 +11,15 @@ module.exports = {
         switch (current) {
             case null:
                 sess.set(userId, "start", true)
-                return client.replyMessage(replyToken, text.greeting)
-
+                return client.replyMessage(replyToken, text.greeting) && client.replyMessage(replyToken, flex.greeting)
             case "start":
                 sess.set(userId, "finish_register", true)
                 console.log("Namanya : " + message)
                 return client.replyMessage(client.replyMessage(replyToken, text.finishRegister))
         }
     },
-    getContents() {
-
-    },
     linkRichMenu(client, userId, richMenuId) {
-        sess.set(userId, this.getStatus(userId), true)
+        sess.get(userId, this.getStatus(userId), true)
         return client.linkRichMenuToUser(userId, richMenuId)
     }
 
