@@ -1,4 +1,4 @@
-{
+[{
     "type": "flex",
     "altText": "paypal",
     "contents": {
@@ -966,4 +966,4 @@
             }
         ]
     }
-}
+}]
